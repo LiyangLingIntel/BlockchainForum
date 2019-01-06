@@ -1,6 +1,27 @@
-# Infnote Blockchain in JavaScript
+# Blockchain Forum in JavaScript
+
+This is my course Independent Project.
+
+The full version contains Forum on server, on mobile devices and on browser. My part focuses on Javascript   version on browser.
+
+Briefly the idea of this project is implementing a different forum based on blockchain techniques which could garantee the info in this forum can be successfully published and could not be changed.
 
 
+
+*2018 / 11 / 28*
+
+---
+
+All problem fixed.
+
+#### What's new:
+
+* Based on big integer calculation to compress public key
+* Using google protobuf to encode message package to improve transmission efficiency
+
+*2018 / 10 / 27*
+
+---
 
 #### Problems Remained：
 
